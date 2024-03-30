@@ -1,0 +1,5 @@
+<?php 
+$foo = "10.6";
+$bar = (float) $foo;
+
+var_dump($bar);
