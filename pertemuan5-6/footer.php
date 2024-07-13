@@ -4,7 +4,7 @@
     <div class="float-right d-none d-sm-block">
       <b>Version</b> 3.2.0
     </div>
-    <strong>Copyright &copy; 2024 <a href="#">Febryan Ahmad Tri Setyo</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2024 <a href="#">Risca Marcella Jhesica</a>.</strong> All rights reserved.
   </footer>
 
   <!-- Control Sidebar -->
